@@ -1,0 +1,69 @@
+{
+    
+    "mentors":[
+        {   
+            "name":"George",
+            "id":"1000001",
+            "Expertise":"Full Stack",
+            "Availability":"Full Day",
+            "Contact":"9879868454",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEjKyQFTvBAzjlVwce_SUFQc-8PlN86QJWYA&usqp=CAU"
+        },
+        {   
+            "name":"Paul",
+            "id":"1000002",
+            "Expertise":"Python",
+            "Availability":"Half Day",
+            "Contact":"9876788454",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg-nF-C88_fS8-Cap_j_RhotxddFLCdXVHmg&usqp=CAU"
+        },
+        {   
+            "name":"Prasad",
+            "id":"1000009",
+            "Expertise":"Python",
+            "Availability":"Half Day",
+            "Contact":"9876788454",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxO_Lffi-kiFy6jVaKgqN41ywOxeNdWLbH9Q&usqp=CAU"
+        },
+        {   
+            "name":"Devi",
+            "id":"1000008",
+            "Expertise":"Python",
+            "Availability":"Half Day",
+            "Contact":"9876788454",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0XXI01plHtlYHDwPOjqkF7y5dvHD0LSiAw&usqp=CAU"
+        },
+        {   
+            "name":"Anand Sharma",
+            "id":"1000003",
+            "Expertise":"DSA",
+            "Availability":"Half Day",
+            "Contact":"9879867894",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPXekdWunF1FoDFKAuZEcrRW6xyAWs4heVCQ&usqp=CAU"
+        },
+        {   
+            "name":"Divya Bharathi",
+            "id":"1000004",
+            "Expertise":"Java",
+            "Availability":"Full Day",
+            "Contact":"9789098684",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkWS8F7N4IZgTabarXSWnBoUIc8wmUDa2vrA&usqp=CAU"
+        },
+        {   
+            "name":"Prerana",
+            "id":"1000005",
+            "Expertise":"Full Stack",
+            "Availability":"Half Day",
+            "Contact":"9879867894",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5zhP0eeUhhMuR7InwzuWGMdId2fSV2QU-Zg&usqp=CAU"
+        },
+        {   
+            "name":"Battacharya",
+            "id":"1000006",
+            "Expertise":"Python",
+            "Availability":"Full Day",
+            "Contact":"9879868789",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dqLjePm5oWKENJ6QRRlcbNU7oIpl1hUKnA&usqp=CAU"
+    }
+    ]
+}

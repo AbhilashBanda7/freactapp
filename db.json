@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "c13c",
+      "firstname": "Abhilash",
+      "lastname": "Banda",
+      "email": "abhilashbanda7@gmail.com",
+      "tel": "8765432190",
+      "pass": "$2a$05$SQ1ktiXeT9LFM4/ppcfQOeYWLAkDInVAlkm0NKpfkd09HwZ7UMwmO"
+    },
+    {
+      "id": "1bd1",
+      "firstname": "Rohith",
+      "lastname": "A",
+      "email": "abhilashbanda7@gmail.com",
+      "tel": "",
+      "pass": "$2a$05$0T2JrQPAuM53tJ7XZIw2ieCBU4Tq49O36mny0yUOBKSj.WEed.V.G"
+    }
+  ]
+}

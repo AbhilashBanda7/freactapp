@@ -1,0 +1,29 @@
+.head-1{
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color:#66FCF1;
+}
+.h-2{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color:gray;
+}
+.Y{
+    background-color:black;
+    background-size: cover;
+    height: 100vh;
+}
+h3{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color:red;
+}
+.team{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color:red;
+}
